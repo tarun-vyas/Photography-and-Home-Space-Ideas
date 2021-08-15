@@ -1,7 +1,5 @@
 # Photography-and-Home-Space-Ideas
-This project give brief description about photography, its types and also to manage home spaces ideas.![Screenshot (88)](https://user-images.githubusercontent.com/59083998/129477225-bddbec7b-a740-42f6-b6e8-52002199e062.png)
-![Screenshot (87)](https://user-images.githubusercontent.com/59083998/129477221-857500a0-f9ba-437a-8dfe-50d90dc5ade8.png)
-![Uploading Screenshot (88).png…]()
-![Screenshot (89)](https://user-images.githubusercontent.com/59083998/129477237-7c18edac-d669-458a-a58e-61a6bf0c351d.png)
+This project give brief description about photography, its types and also to manage home spaces ideas.![Screenshot (87)](https://user-images.githubusercontent.com/59083998/129477385-d70d3cff-38a6-40a6-bda2-2f49663e95c4.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/59083998/129477390-8c2bf0ae-03e2-4643-bd27-72a36e35b90d.png)
+![Screenshot (88)](https://user-images.githubusercontent.com/59083998/129477392-0b66a9c8-d6e3-4a91-995b-3a98a84863b6.png)
 
-![Screenshot (87)](https://user-images.githubusercontent.com/59083998/129477124-37603d4d-fbcc-4d60-b2b6-1dacbcf7f74e.png)
